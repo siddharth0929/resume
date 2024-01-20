@@ -72,6 +72,6 @@ author:
     - skill5:
       name: Github 
       percentage: 90%
-    skill6:
+      skill6:
       name: Docker
       percentage: 60%  
