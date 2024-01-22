@@ -26,11 +26,23 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
-  workHistory:
-    - work1:
-      company: XXX Ltd
-      location: London, United Kingdom
-      title: Java Developer
+  educationHistory:
+    - education1:
+      organization: Birmingham City University
+      location: Birmingham, United Kingdom
+      degree: Masters
+      major: Computer Science
+      started: 2023
+      duration: (2023 - 2024)
+      description: 
+    - education2:
+      organization: DAVV University
+      location: Indore, India
+      degree: Bachelor
+      major: Computer Applications
+      started: 2019
+      duration: (2019 - 2022)
+      description:
 
   educationHistory:
     - education1:
